@@ -104,7 +104,7 @@ strong, h1 {
 }
 
 .project {
-	background-color: #efeff5;
+	background-color:#f7f7f7;
 	border-radius: 15px;
 	padding: 20px;
 }
@@ -116,3 +116,7 @@ strong, h1 {
 .p2 {
 	border-left: white solid 10px;
 }
+
+footer {
+	background-color: black;
+	color: white;
