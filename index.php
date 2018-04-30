@@ -55,7 +55,7 @@
 					<p>Au cours de ce premier semestre, nous évalué l'<strong>utilisabilité</strong> de ce logiciel de suivi de troubles cognitifs. </p>
 					<p>Tout ceci en faisant des retours constants à une équipe pluridisciplinaire de développeurs, de chercheurs et de neuropsychologues.</p>
 					<p>De plus, nous avons réalisé un manuel utilisateur <strong>visuel</strong>, <strong>rapide</strong> et <strong>ludique</strong> à destination des neuropsychologues qui vont utiliser THALIE.</p>
-					<p><a href="html/thalie.html" title="Informations sur THALIE">Cliquez ici pour en savoir plus !</a></p>
+					<p><a href="thalie.php" title="Informations sur THALIE">Cliquez ici pour en savoir plus !</a></p>
 				</div>
 				
 				<div class="col-sm-5 col-md-5 project p2">
@@ -64,17 +64,17 @@
 					<p>"Guztiak Bizi" est une association qui lutte contre l'isolement des personnes âgées grâce à une plateforme d'échange de services entre bénévoles.</p>
 					<p>Pour utiliser cette plateforme, les personnes âgées passent par l'intermédiaire de la Google Home.<p>
 					<p>Notre but est d'évaluer l'<strong>acceptabilité</strong> de ce service. Mais ce dispositif pourrait aussi être utilisé dans l'optique d'effectuer un <strong>suivi cardiologique</strong> régulier.</p>
-					<p><a href="html/bizi.html" title="Informations sur Bizi">Cliquez ici pour en savoir plus !</a></p>
+					<p><a href="bizi.html" title="Informations sur Bizi">Cliquez ici pour en savoir plus !</a></p>
 				</div><br>
 				<div class="col-sm-1 col-md-1"></div>
 			</div>
 			<div class="row">
-				<a href="html/why2.html" title="Pourquoi deux projets ?"><p>Pourquoi avons nous réalisé deux projets ?</a>
+				<a href="why2.php" title="Pourquoi deux projets ?"><p>Pourquoi avons nous réalisé deux projets ?</a>
 			</div> <hr>
 		</div>
 		<!--GESP-->
 		<div class="englob"></div>
-		<a href="html/gesp.html" title="Gestion de projet"><div class="gesp text-center project"><h3><span>La <strong>gestion de projet</strong>, c'est par ici !</h3></div></a>
+		<a href="gesp.php" title="Gestion de projet"><div class="gesp text-center project"><h3><span>La <strong>gestion de projet</strong>, c'est par ici !</h3></div></a>
 		
 	</div>	
 	
