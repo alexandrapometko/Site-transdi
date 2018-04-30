@@ -36,7 +36,7 @@ a {
   background-image:url('../images/bujo.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  height: 200px;
+  height: 500px;
 }
 
 .learn-more {
@@ -107,6 +107,8 @@ strong, h1 {
 	background-color:#f7f7f7;
 	border-radius: 15px;
 	padding: 20px;
+	margin-bottom : 30px;
+	margin-top : 30px;
 }
 
 .p1 {
@@ -118,5 +120,15 @@ strong, h1 {
 }
 
 footer {
-	background-color: black;
-	color: white;
+	background-color: rgb(34, 34, 34);
+	color: rgb(157,157,157);
+}
+
+footer img {
+	height : 100px;
+	padding: 15px;
+}
+
+.author {
+	display: inline-block;
+	vertical-align: middle;
