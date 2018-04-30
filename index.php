@@ -16,7 +16,7 @@
 			<div class="col-md-4">
 				<img src="images/team/julien.jpg" alt="Julien"></img>
 				<p><strong>Julien</strong></p>
-				Le curieux
+				Le pro des entretiens
 			</div>
 			<div class="col-md-4">
 				<img src="images/team/elise.jpg" alt="Elise"></img>
@@ -28,7 +28,7 @@
 			<div class="col-md-5">
 				<img src="images/team/claire.jpg" alt="Claire"></img>
 				<p><strong>Claire</strong></p>
-				L'endurante
+				La rigoureuse
 			</div>
 			<div class="col-md-2">
 				<h1>Equipe de choc</h1>
