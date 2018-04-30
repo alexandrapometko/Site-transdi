@@ -70,12 +70,15 @@
 			</div>
 			<div class="row">
 				<a href="html/why2.html" title="Pourquoi deux projets ?"><p>Pourquoi avons nous réalisé deux projets ?</a>
-			</div>
+			</div> <hr>
 		</div>
+		<!--GESP-->
+		<div class="englob"></div>
+		<a href="html/gesp.html" title="Gestion de projet"><div class="gesp text-center project"><h3><span>La <strong>gestion de projet</strong>, c'est par ici !</h3></div></a>
+		
 	</div>	
 	
-	<!--GESP-->
-	<div class="jumbotron gesp text-center"><a href="html/gesp.html" title="Gestion de projet"><h3>La <strong>gestion de projet</strong>, c'est par ici !</h3></a></div>
+	
 	
 	<?php include('includes/footer.html'); ?>
 
