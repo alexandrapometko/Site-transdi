@@ -112,11 +112,6 @@ strong, h1 {
 	margin-right: auto;
 }
 
-.alert {
-	color: red;
-	font-weight: bold;
-	text-align: justify;
-}
 
 .team img {
 	width : 150px;
@@ -138,7 +133,7 @@ strong, h1 {
 	margin-bottom:20px;
 }
 
-.project ul {
+.project ul,.project ol {
 	text-align: justify;
 }
 
@@ -160,7 +155,26 @@ h4 {
 	display: inline;
 }
 
+#team {
+	height: 200px;
+	border-radius:200%;
+	margin-bottom: 30px;
+}
 
+#logobizi {
+	width: 40%;
+	margin: 30px;
+}
+
+#oscar {
+	width: 40%;
+	margin: 30px;
+}
+
+#gh {
+	width: 20%;
+	margin: 0px;
+}
 
 footer {
 	background-color: rgb(34, 34, 34);
@@ -178,6 +192,14 @@ table, th, td {
 	text-align: center;
     padding: 10px;
 	border-bottom: 1px solid gray;
+}
+
+.inside {
+	background-color:#f2efef;
+	border-radius: 15px;
+	padding: 20px;
+	margin-bottom : 30px;
+	margin-top : 30px;
 }
 
 footer img {
