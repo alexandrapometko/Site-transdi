@@ -202,6 +202,12 @@ table, th, td {
 	margin-top : 30px;
 }
 
+#planvert {
+	color: green;
+	font-weight: bold;
+	margin: 20px;
+}
+
 footer img {
 	height : 100px;
 	padding: 15px;

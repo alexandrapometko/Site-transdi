@@ -75,9 +75,17 @@
 		<!--GESP-->
 		<div class="englob"></div>
 		<a href="gesp.php" title="Gestion de projet"><div class="gesp text-center project"><h3><span>La <strong>gestion de projet</strong>, c'est par ici !</h3></div></a>
+		<hr>
 		
 		<!--Plan vert-->
-		
+		<h2 id="planvert">Plan Vert</h2>
+		<p>Nos deux projets s'inscrivent dans le démarche du plan vert qui permet aux établissements de l'enseignement supérieur d'intégrer le développement durable dans leur fonctionnement et dans leurs enseignements.</p>
+		<p>En effet les enjeux de nos projets traîtent de </p>
+		<span class="glyphicon glyphicon-plus"></span>
+		<p><strong>la santé </strong><br>neuropsychologique avec THALIE, cardiovasculaire avec Bizi&Co</p>
+		<span class="glyphicon glyphicon-heart-empty"></span>
+		<p><strong>l'inclusion sociale</strong><br>lien social et échanges de services bénévoles sur Bizi&Co pour les personnes âgées et handicapées.</p>
+		<img id="planvert" src="images/planvert.jpg" alt="Plan Vert logo"></img>
 		
 	</div>	
 	
