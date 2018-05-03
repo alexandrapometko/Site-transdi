@@ -3,10 +3,11 @@
 <?php include('includes/head.html'); ?>
 
 <body>
-	<?php include('includes/top.html'); ?>
+	<?php include('includes/top.html'); ?>	
 	
 	<!--team-->
 	<div class="team container text-center">
+	<h1>Projet transdisciplinaire THALIE/Bizi&Co</h1><br>
 		<div class="row">
 			<div class="col-md-4">
 				<img src="images/team/anthony.jpg" alt="Anthony"></img>
