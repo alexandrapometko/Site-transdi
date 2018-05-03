@@ -21,7 +21,7 @@
 			<p>Au moins de Septembre, lors de l’obtention de notre projet, nous avons tout d’abord mis en place un planning prévisionnel pour l’intégralité du projet, à savoir pour les 2 semestres de première année. Ainsi, le projet Thalie était, à l’origine, supposé durer toute l’année. </p>
 			
 			<h4>Figure 1 : Planning prévisionnel de l’année 2017-2018</h4>
-			<img src="images/thaliegantt1.png" alt"Planning prévisionnel annee"/>
+			<img src="images/thaliegantt1.PNG" alt"Planning prévisionnel annee"/>
 			<h4>Déroulement du semestre</h4>
 			<p>Afin de démarrer au mieux ce projet, nous avons tout d’abord décidé de travailler tous ensemble sur l’appropriation du logiciel Thalie.</p>
 			<ul>
@@ -35,7 +35,7 @@
 			
 			<h4>Figure 2 : Planning effectif du semestre 1</h4>
 			<p>Le planning effectif est donc très différent du prévisionnel puisque seul le premier semestre a été réalisé comme convenu.</p>
-			<img src="images/thaliegantt2.png" alt"Planning semestre 1"/>
+			<img src="images/thaliegantt2.PNG" alt"Planning semestre 1"/>
 			
 			<p>C’est après validation du manuel utilisateur que nous avons été retirés du projet Thalie et que nous avons été redirigés vers le projet Bizi&Co.</p>
 		</div>
@@ -43,7 +43,7 @@
 			<h3><strong>2ème semestre : Bizi&Co</strong></h3>
 			<p>Ainsi, nous avons dû, au début de ce second semestre, mettre en place un nouveau planning afin de prévoir un calendrier à respecter pour ce nouveau projet.</p>
 			<h4>Figure 3 : Planning prévisionnel du semestre 2</h4>
-			<img src="images/bizigantt1.png" alt="planning previsonnel S2"/>
+			<img src="images/bizigantt1.PNG" alt="planning previsonnel S2"/>
 			<h4>Définition du besoin client</h4>
 			<p>Au début du semestre, nous avons décidé de travailler en groupe sur la définition des besoins du clients et également l’appropriation du projet.</p>
 			<p>En effet, il n’est pas aisé de changer de projet au milieu de l’année et celui-ci étant complètement différent de Thalie, il nous a été nécessaire pleinement en prendre connaissance.</p> 
