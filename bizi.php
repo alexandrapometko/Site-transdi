@@ -63,10 +63,35 @@
 			</div>
 		</div>
 		<div class="project">
+			<h2><strong>Résultats portant sur ...</strong></h2>
+			<p>L'ensemble des points suivants sont évoqués davantage dans le rapport final.</p>
+			<h3>Les profils des interrogés</h3>
+			<p></p>
+			
+			<h3>L'appareil à commande vocale</h3>
+			<p></p>
+			
+			<h3>L'application mobile</h3>
+			<p></p>
+			
+			<h3>Le concept de Bizi&Co</h3>
+			<p></p>
+		</div>
+		<div class="project">
+			<h2><strong>Améliorations</strong></h2>
+			<p>Nous avons identifié plusieurs points à corriger sur Bizi&Co, notamment la formulation des questions.</p>
+			<p>C'est pour ça que nous avons rédigé une notice explicative des bonnes et mauvaises pratiques dans la formulation de questions aux personnes âgées (disponible dans les livrables).</p>
+			<ul>Ces améliorations portent sur :
+				<li>Le temps de réponse laissé aux personnes âgées</li>
+				<li>Les options de réponses acceptées par Bizi</li>
+				<li>Un contrôle plus explicite pour l'utilisateur</li>
+			</ul>
+		</div>
+		<div class="project">
 			<h4><strong>Difficultés rencontrées</strong></h4>
 			<p>Le cadre hospitalier n’était pas le plus propice à la réalisation de ces tests utilisateurs, les personnes y sont souvent stressées et fatiguées donc peu réceptives. </p>
 			<p>Nous sommes donc entrés en contact avec Karine PERES, aussi partenaire du projet Bizi&Co,  afin d’organiser des tests utilisateurs en EHPAD ou en clubs séniors. </p>
-			<p>Cependant, il manquait de dispositifs pour pouvoir utiliser le boitier à commande vocale (notamment du wifi), ces tests n’ont donc pas pu avoir lieu.</p>
+			<p>Nous avons donc aménagé un créneau de tests dans la Résidence "Les Tulipes" à Pessac, où l'ambiance était beaucoup plus détendue et les résultats en ont été impactés de manière positive.</p>
 		
 		</div>
 		<img id="team" src="images/team/thegreat3.jpg" alt="Une équipe prête à tout !"/>
