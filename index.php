@@ -65,7 +65,7 @@
 					<p>"Guztiak Bizi" est une association qui lutte contre l'isolement des personnes âgées grâce à une plateforme d'échange de services entre bénévoles.</p>
 					<p>Pour utiliser cette plateforme, les personnes âgées passent par l'intermédiaire de la Google Home.<p>
 					<p>Notre but est d'évaluer l'<strong>acceptabilité</strong> de ce service. Mais ce dispositif pourrait aussi être utilisé dans l'optique d'effectuer un <strong>suivi cardiologique</strong> régulier.</p>
-					<p><a href="bizi.html" title="Informations sur Bizi">Cliquez ici pour en savoir plus !</a></p>
+					<p><a href="bizi.php" title="Informations sur Bizi">Cliquez ici pour en savoir plus !</a></p>
 				</div><br>
 				<div class="col-sm-1 col-md-1"></div>
 			</div>
