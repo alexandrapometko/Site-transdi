@@ -32,7 +32,7 @@
 		<div class="project">
 			<h4><strong>Travail effectué</strong></h4>
 			<p>Pour mener cette enquête, nous avons dû mettre en place des protocoles de passation de test utilisateurs et de réalisation d’entretiens. </p>
-			<p>Il y a eu plusieurs changement de protocole au cours de projet en raison d’évolution des attentes du client. Ces derniers ont été détaillés dans la partie <a href="gesp.php" title="GESP">"Gestion de projet"</a>.</p>
+			<p>Il y a eu plusieurs changements de protocole au cours de projet en raison d’évolution des attentes du client. Ces derniers ont été détaillés dans la partie <a href="gesp.php" title="GESP">"Gestion de projet"</a>.</p>
 
 			<p>Les tests utilisateurs ont été réalisés au sein du service cardiologique de l’hôpital Haut-Lévêque de Pessac sur des patients entre 65 et 90 ans environ.</p>
 			<div class="inside">
@@ -90,7 +90,7 @@
 		<div class="project">
 			<h4><strong>Difficultés rencontrées</strong></h4>
 			<p>Le cadre hospitalier n’était pas le plus propice à la réalisation de ces tests utilisateurs, les personnes y sont souvent stressées et fatiguées donc peu réceptives. </p>
-			<p>Nous sommes donc entrés en contact avec Karine PERES, aussi partenaire du projet Bizi&Co,  afin d’organiser des tests utilisateurs en EHPAD ou en clubs séniors. </p>
+			<p>Nous sommes donc entrés en contact avec Karine PERES, aussi partenaire du projet Bizi&Co,  afin d’organiser des tests utilisateurs en EHPAD ou en clubs seniors. </p>
 			<p>Nous avons donc aménagé un créneau de tests dans la Résidence "Les Tulipes" à Pessac, où l'ambiance était beaucoup plus détendue et les résultats en ont été impactés de manière positive.</p>
 		
 		</div>

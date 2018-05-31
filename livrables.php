@@ -48,7 +48,7 @@
 		</tr>
 		<tr>
 			<td>Notice pour les questions</td>
-			<td>Aide pour poser des questions compréhensibles par les personnes âgées qui amènenent aux réponses les plus pertinente pour la Google Home.</td>
+			<td>Aide pour poser des questions compréhensibles par les personnes âgées qui amènent aux réponses les plus pertinentes pour la Google Home.</td>
 			<td>0,2 Mo</td>
 			<td><a href="livrables/notice_questions.pdf" title="télécharger" target="_blank"><span class="glyphicon glyphicon-download-alt"></span></td>				
 		</tr>
