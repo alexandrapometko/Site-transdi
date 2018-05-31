@@ -27,14 +27,14 @@
 			<p>Notre objectif dans le cadre du projet transdisciplinaire était de réaliser une enquête en population sur l’intérêt, <strong>l'acceptabilité et l'utilisabilité</strong> 
 			de la plateforme par les potentiels utilisateurs (seniors).</p>
 			<p>Il s’agissait également d’évaluer une seconde plateforme développée par  Nicolas Pages, anesthésiste au CHU. Cette dernière est une application pour smartphone qui réalise 
-			le même suivi cardiologique qui est implenté dans Bizi sur la Google Home, mais en utilisant un support écrit. Ceci allait nous permettre de comparer les 2 interfaces et voir celle qui était le mieux acceptée.</p>
+			le même suivi cardiologique qui est implanté dans Bizi sur la Google Home, mais en utilisant un support écrit. Ceci allait nous permettre de comparer les 2 interfaces et voir celle qui était la mieux acceptée.</p>
 		</div>	
 		<div class="project">
 			<h4><strong>Travail effectué</strong></h4>
 			<p>Pour mener cette enquête, nous avons dû mettre en place des protocoles de passation de test utilisateurs et de réalisation d’entretiens. </p>
 			<p>Il y a eu plusieurs changement de protocole au cours de projet en raison d’évolution des attentes du client. Ces derniers ont été détaillés dans la partie <a href="gesp.php" title="GESP">"Gestion de projet"</a>.</p>
 
-			<p>Les tests utilisateurs ont été réalisé au sein du service cardiologique de l’hôpital Haut-Lévêque de Pessac sur des patients entre 65 et 90 ans environ.</p>
+			<p>Les tests utilisateurs ont été réalisés au sein du service cardiologique de l’hôpital Haut-Lévêque de Pessac sur des patients entre 65 et 90 ans environ.</p>
 			<div class="inside">
 				<h4>Premier protocole</h4>
 				<p>Dans un premier temps, nous avons effectué des tests utilisateurs axés sur l'aspect suivi cardiologique.</p>
@@ -45,7 +45,7 @@
 				
 				<strong>Déroulement du test utilisateur</strong>
 				<ol>
-					<li>Passation de l’entretien 1 : questions personnelles, opinion sur le dispositif  à commandes vocales</li>
+					<li>Passation de l’entretien 1 : questions personnelles, opinion sur le dispositif  à commande vocale</li>
 					<li>Utilisation de la Google Home : questionnaire de suivi cardiologique</li>
 					<li>Passation de l’entretien sur le dispositif </li>
 					<li>Entretien sur l’opinion sur l’utilisation d’un smartphone et sur l'application mobile (sans utilisation)</li>
@@ -56,7 +56,7 @@
 			</div>
 			<div class="inside">
 				<h4>Deuxième protocole</h4>
-				<p>Par la suite, nous avons modifié le protocole de test en supprimant la partie application mobile, mais également en changeant l’approche du protocole suivi par la Google Home afin d’humaniser davantage et alleger nos tests. 
+				<p>Par la suite, nous avons modifié le protocole de test en supprimant la partie application mobile, mais également en changeant l’approche du protocole suivi par la Google Home afin d’humaniser davantage et alléger nos tests. 
 				Ainsi, le suivi cardiologique a fait place à une présentation normale de l'utilisateur.</p>
 				<p>Les utilisateurs passaient dans un premier temps un test où ils réalisaient le questionnaire de présentation de l’application Bizi&Co (toujours avec la Google Home).</p>
 				<p>Cela permet à l’utilisateur d'assimiler ses informations et ses besoins au sein de la plateforme de l’application. La suite était identique au protocole initial.</p>
