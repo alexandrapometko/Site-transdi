@@ -50,17 +50,18 @@
 			<td>Notice pour les questions</td>
 			<td>Aide pour poser des questions compréhensibles par les personnes âgées qui amènent aux réponses les plus pertinentes pour la Google Home.</td>
 			<td>0,2 Mo</td>
-			<td><a href="livrables/notice_questions.pdf" title="télécharger" target="_blank"><span class="glyphicon glyphicon-download-alt"></span></td>				
+			<td><a href="livrables/notice_questions.pdf" title="télécharger" target="_blank"><span class="glyphicon glyphicon-download-alt"></span></a></td>				
 		</tr>
 		<tr>
 			<td>Résultats de l'étude</td>
 			<td>Rapport final pour présenter les résultats des tests utilisateurs et nos conclusions sur l'utilisabilité du service</td>
-			<td>Mo</td>
-			<td><span class="glyphicon glyphicon-download-alt"></span></td>				
+			<td>0,46 Mo</td>
+			<td><a href="livrables/rapport.pdf" title="télécharger" target="_blank"><span class="glyphicon glyphicon-download-alt"></span></a></td>				
 		</tr>
 		</table>
 		<hr>
-		<h3>Télécharger une archive contenant tous les documents<br><br><span class="glyphicon glyphicon-download-alt"></span></h3>
+		<h3>Télécharger une archive contenant tous les documents<br><br>
+		<a href="livrables/livrables.zip" title="télécharger" target="_blank"><span class="glyphicon glyphicon-download-alt"></span></a></h3>
 		<p>Le manuel utilisateur n'est pas inclus du fait de son poids.</p>
 		
 		
